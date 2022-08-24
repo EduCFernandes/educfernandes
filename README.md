@@ -1,5 +1,5 @@
-<h1 align="left">I'm Eduardo Fernandes</h1>
-<h3 align="left">A Front-End Engineer based in São Paulo, Brazil.</h3>
+<h1 align="left">Eduardo Fernandes</h1>
+<h3 align="left">Front-End Engineer based in São Paulo, Brazil. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
